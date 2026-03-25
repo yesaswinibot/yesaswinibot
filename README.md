@@ -13,7 +13,7 @@ Computer Science Engineering Student @ Visakhapatnam
 
 ## What I'm Currently Learning
 - 🔧 Spring Boot Microservices
-- ☁️ AWS Cloud (Solutions Architect)
+- ☁️ AWS Cloud
 - 🗄️ MySQL & Database Design
 - 📊 DSA in Java
 
